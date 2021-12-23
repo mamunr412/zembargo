@@ -1,0 +1,17 @@
+.image {
+  width: 554px;
+  height: 600px;
+  object-fit: fill;
+}
+
+h6 {
+  font-family: "ABeeZee", Sans-serif;
+  font-size: 20px;
+  margin-top: 24px;
+  font-weight: 500;
+  text-align: left;
+}
+i {
+  color: #ea4d2e;
+  margin-right: 8px;
+}
